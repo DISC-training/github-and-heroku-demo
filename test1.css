@@ -4,6 +4,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 50px;
 }
 .text1
 {
@@ -13,17 +14,75 @@
     margin-right: auto;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:rgba(22, 24, 26, 0.336)
+    color:rgba(22, 24, 26, 0.336);
+    margin-top: 30px;
 }
-.text2
-{
-   font-size: 25px;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   margin-left: 280px;
-}
+
 .checkoutform
 {
     text-align: center;
     font-size:30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+}
+div.text2
+{
+    width: 1000px;
+    margin-left: 270px;
+    display: flex;
+    font-size: 28px;
+    margin-top: 60px;
+}
+div.con1
+{
+    margin-right: 30px;
+}
+div.con2
+{
+    color: rgba(95, 102, 110, 0.788);
+}
+
+div.btn1
+{
+    display: flex;
+}
+.txt1,.txt2{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.txt2{
+    margin-left: 50px;
+}
+.input,.input2
+{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.user
+{
+    font-size: 20px;
+    margin-top: 25px;
+}
+.hang3
+{
+    background: 500px;
+}
+.txt6
+{
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+}
+.txt8
+{
+    display: flex;
+}
+.tet1
+{
+    border-style: inset;
+    background: #bdc3c7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
