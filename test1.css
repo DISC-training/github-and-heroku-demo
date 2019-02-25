@@ -1,88 +1,94 @@
-.img1
+.column1
 {
+    display: flex;
+}
+.divide-column1-first
+{
+    display: flex;
+}
+.divide-column1-second
+{
+    display: flex; 
+}
+.tag-total
+{
+    margin-left: 50%;
+    position:absolute;
+    transform: translateX(-50%);
+    position: relative;
+    margin-top: 50px;
+}
+.flex
+{
+    display: flex;
+}
+.column-3-1
+{
+    display: flex;
+}
+.pay-info
+{
+    display: flex;
+}
+.duration
+{
+    display: flex;
+}
+.images
+{
+    margin-top: 45px;
     width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.column2
+{
+    margin-left:  100px;
+}
+.center
+{
+    text-align: center;
+}
+.title
+{
+    
+    margin-top: 30px;
+    font-size: 35px;
+    font-family: 'Fjalla One', sans-serif;
+    color: blueviolet;
+}
+.note
+{
+    font-size: 20px;
+    width: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 50px;
+    margin-top: 15px;
 }
-.text1
+.title-colum
 {
-    text-align: center;
-    width: 900px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:rgba(22, 24, 26, 0.336);
-    margin-top: 30px;
+    font-size: 25px;
+    font-family: 'Fjalla One', sans-serif;
+    margin-bottom: 20px;
 }
-
-.checkoutform
+.name-of-request
 {
-    text-align: center;
-    font-size:30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-top: 30px;
+    font-size: 14px;
+    font-family: 'Fjalla One', sans-serif;
 }
-div.text2
+.namebtn
 {
-    width: 1000px;
-    margin-left: 270px;
-    display: flex;
-    font-size: 28px;
-    margin-top: 60px;
-}
-div.con1
-{
-    margin-right: 30px;
-}
-div.con2
-{
-    color: rgba(95, 102, 110, 0.788);
-}
-
-div.btn1
-{
-    display: flex;
-}
-.txt1,.txt2{
-    font-size: 20px;
-    margin-top: 20px;
-}
-.txt2{
-    margin-left: 50px;
-}
-.input,.input2
-{
-    width: 300px;
+    width: 250px;
     height: 30px;
-    font-size: 20px;
-    margin-top: 20px;
+    border-radius: .25rem;
+    background-color: rgb(241, 241, 241) solid;
+    border: 1px solid #ced4da;
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding: .375rem .75rem;
 }
-.user
+.column-1-2
 {
-    font-size: 20px;
-    margin-top: 25px;
-}
-.hang3
-{
-    background: 500px;
-}
-.txt6
-{
-    width: 100%;
-    height: 30px;
-    font-size: 20px;
-}
-.txt8
-{
-    display: flex;
-}
-.tet1
-{
-    border-style: inset;
-    background: #bdc3c7;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
+    margin-left: 40px;
 }
